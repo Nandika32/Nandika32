@@ -1,5 +1,14 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Nandika
+🎓1st year B.Tech CSE @ CUSAT |Pursuing BS in Data Science @IITM
+💻Interests:Data Analysis,Pure Mathematics,Web Development
+📈Learning:Python,C++,HTML/CSS,Visualization
+---
+## 🚀Skills(growing!)
+   Languages:Python,C,Java(basics)
+   Web:HTML,CSS,Github/Git
+   Data:Pandas,NumPy,Matplotlib
+---   
+   
 <!--
 **Nandika32/Nandika32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
