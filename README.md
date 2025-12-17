@@ -8,7 +8,9 @@
    Web:HTML,CSS,Github/Git
    Data:Pandas,NumPy,Matplotlib
 ---   
-   
+  ## Projects
+- 🧠 Mental Health Analytics App – Streamlit survey + analytics dashboard  
+- 📊 Data Science portfolios and visualization tools 
 <!--
 **Nandika32/Nandika32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
