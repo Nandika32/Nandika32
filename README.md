@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Nandika
 🎓1st year B.Tech CSE @ CUSAT |Pursuing BS in Data Science @IITM
 💻Interests:Data Analysis,Pure Mathematics,Web Development
-📈Learning:Python,C++,HTML/CSS,Visualization
+📈Learning:Python,C,MATLAB,Visualization
 ---
 ## 🚀Skills(growing!)
    Languages:Python,C,Java(basics)
