@@ -1,5 +1,5 @@
 ## Hi there, I'm Nandika
-1st year B.Tech CSE @ CUSAT |Pursuing BS in Data Science @IITM
+2nd year B.Tech CSE @ CUSAT |Pursuing BS in Data Science @IITM
 Interests:Data Analysis,Pure Mathematics,Web Development
 Learning:Python,C,MATLAB,Visualization,n8n
 ---
